@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! My Name is Rahul Kumar. I'm a MERN stack developer with a passion for creating web applications that are fast, scalable, and user-friendly. My core skills include React.js, Node.js, Express.js, and MongoDB, as well as HTML, CSS, Bootstrap and JavaScript. I enjoy learning new technologies and frameworks to improve my skills and expand my knowledge.
+My Name is Rahul Kumar. I'm a MERN stack developer with a passion for creating web applications that are fast, scalable, and user-friendly. My core skills include React.js, Node.js, Express.js, and MongoDB, as well as HTML, CSS, Bootstrap and JavaScript. I enjoy learning new technologies and frameworks to improve my skills and expand my knowledge.
 
 Besides web development, I have also prepared for Punjab government job exams, and I am currently doing tuitions to help students with their studies. I believe that education is the key to success, and I love to share my knowledge and experience with others.
 
