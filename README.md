@@ -20,6 +20,6 @@ I'm always open to new opportunities and challenges, and I'm looking forward to 
 - 👯 I’m looking to collaborate on full stack development.
   <!-- 🤔 I’m looking for help with ... -->
 - 💬 Ask me about anthing you want.
-- 📫 contact me : [X](https://twitter.com/rahulkumarpahwa) 
+- 📫 contact me :  [X](https://twitter.com/rahulkumarpahwa) 
 - 😄 Pronouns: He/Him
 <!-- ⚡ Fun fact: -->
