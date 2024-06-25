@@ -9,12 +9,12 @@ Here are some ideas to get you started:
 
 
 
-My Name is Rahul Kumar. I'm a MERN stack developer with a passion for creating web applications that are fast, scalable, and user-friendly. My core skills include React.js, Tailwind Css, Node.js, Express.js, and MongoDB, as well as HTML, CSS, Bootstrap and JavaScript. I enjoy learning new technologies and frameworks to improve my skills and expand my knowledge.
+My Name is Rahul Kumar. I'm a MERN stack developer with a passion for creating web applications that are fast, scalable, and user-friendly. My core skills include Next.js, React.js, Tailwind Css, Node.js, Express.js, and MongoDB, as well as HTML, CSS, Bootstrap and JavaScript. I enjoy learning new technologies and frameworks to improve my skills and expand my knowledge.
 
 I'm always open to new opportunities and challenges, and I'm looking forward to connecting with you.
 
 <!--- 🔭 I’m currently working on ... --->
-- 🌱 I’m currently learning Reactjs 🚀
+- 🌱 I’m currently learning Next.js 🚀
 - 👯 I’m looking to collaborate on full stack development.
   <!-- 🤔 I’m looking for help with ... -->
 - 💬 Ask me about anthing you want.
