@@ -21,3 +21,10 @@ I'm always open to new opportunities and challenges, and I'm looking forward to 
 - 📫 contact me :  [X](https://twitter.com/rahulkumarpahwa) 
 - 😄 Pronouns: He/Him
 <!-- ⚡ Fun fact: -->
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=rahulkumarpahwa&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumarpahwa&langs_count=5&theme=tokyonight)]()
+
+
+
+
