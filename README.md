@@ -18,8 +18,9 @@ I'm always open to new opportunities and challenges, and I'm looking forward to 
 - 👯 I’m looking to collaborate on full stack development.
   <!-- 🤔 I’m looking for help with ... -->
 - 💬 Ask me about anthing you want.
-- 📫 contact me :  [X](https://twitter.com/rahulkumarpahwa) 
+- 📫 contact me : https://twitter.com/rahulkumarpahwa 
 - 😄 Pronouns: He/Him
+- Hashnode: https://rahulkumarpahwa.hashnode.dev/
 <!-- ⚡ Fun fact: -->
 
 ![rahulkumarpahwa's Stats](https://github-readme-stats.vercel.app/api?username=rahulkumarpahwa&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
