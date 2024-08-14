@@ -22,8 +22,8 @@ I'm always open to new opportunities and challenges, and I'm looking forward to 
 - 😄 Pronouns: He/Him
 - Hashnode: https://rahulkumarpahwa.hashnode.dev/
 <!-- ⚡ Fun fact: -->
-| Stats        | Contribution           | Languages      | Tech Stack |
-| :-------------:|:-------------:| :--------------:| :-----------:|
+| Stats        | Contribution           | Languages      |
+| :-------------:|:-------------:| :--------------:|
 | ![rahulkumarpahwa's Stats](https://github-readme-stats.vercel.app/api?username=rahulkumarpahwa&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) | ![rahulkumarpahwa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahulkumarpahwa&theme=vue-dark&hide_border=true) | ![rahulkumarpahwa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumarpahwa&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) 
 
 
