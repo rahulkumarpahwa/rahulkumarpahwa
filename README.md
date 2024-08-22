@@ -16,7 +16,7 @@ I'm always open to new opportunities and challenges, and I'm looking forward to 
 <!--- 🔭 I’m currently working on ... --->
 - 🌱 I’m currently learning Next.js 🚀
 - 👯 I’m looking to collaborate on full stack development.
-  <!-- 🤔 I’m looking for help with ... -->
+- 🤔 I’m looking for help with Java and AWS.
 - 💬 Ask me about anthing you want.
 - 📫 contact me : https://twitter.com/rahulkumarpahwa 
 - 😄 Pronouns: He/Him
