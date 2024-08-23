@@ -19,8 +19,9 @@ I'm always open to new opportunities and challenges, and I'm looking forward to 
 - 🤔 I’m looking for help with Java and AWS.
 - 💬 Ask me about anthing you want.
 - 📫 contact me : https://twitter.com/rahulkumarpahwa 
-- 😄 Pronouns: He/Him
 - Hashnode: https://rahulkumarpahwa.hashnode.dev/
+- 😄 Pronouns: He/Him
+
 <!-- ⚡ Fun fact: -->
 | Stats        | Contribution           | Languages      |
 | :-------------:|:-------------:| :--------------:|
