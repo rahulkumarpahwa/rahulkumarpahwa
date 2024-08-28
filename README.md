@@ -16,7 +16,6 @@ I'm always open to new opportunities and challenges, and I'm looking forward to 
 - 👯 I’m looking to collaborate on full stack development.
 - 🤔 I’m looking for help with Java and AWS.
 - 💬 Ask me about anthing you want.
-- 📫 contact me : https://twitter.com/rahulkumarpahwa 
 - Hashnode: https://rahulkumarpahwa.hashnode.dev/
 - 😄 Pronouns: He/Him
 
