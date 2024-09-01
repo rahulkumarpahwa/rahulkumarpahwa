@@ -35,6 +35,7 @@ This one is just a test.
 [![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&lineCount=1&theme=vue&bg=%2335495E&badge=%233E556E&border=%233E556E&titleColor=%2341B883&line1=vue.js%2CVUE.JS%2Cffffff%3BNext.js%2CNEXT.JS%2Cffffff%3Breact%2CREACT.JS%2Cffffff%3BTAILWINDCSS%2CTAILWIND+CSS%2Cffffff%3BNode.js%2CNODE.JS%2Cffffff%3BExpress%2CEXPRESS.JS%2Cffffff%3BMongoDB%2CMONGODB%2Cffffff%3B)
 
 
+NEXT.JS, REACT.JS, TAILWIND CSS, NODE.JS, EXPRESS.JS, AND MONGODB, AS WELL AS EJS, JSX, HTML, CSS, BOOTSTRAP AND JAVASCRIPT.
 
 
 
