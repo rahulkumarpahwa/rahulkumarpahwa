@@ -32,6 +32,8 @@ This one is just a test.
 ![slack](https://github-readme-tech-stack.vercel.app/api/cards?title=slack&lineCount=1&bg=%232a072c&badge=%237d3986&border=%233e1043&titleColor=%23d8e7f8&line1=typescript%2CTYPESCRIPT%2C3178c6%3Bexpress%2CEXPRESS.JS%2C4f9cb6%3B)
 
 
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&lineCount=1&theme=vue&bg=%2335495E&badge=%233E556E&border=%233E556E&titleColor=%2341B883&line1=vue.js%2CVUE.JS%2Cffffff%3BNext.js%2CNEXT.JS%2Cffffff%3Breact%2CREACT.JS%2Cffffff%3BTAILWINDCSS%2CTAILWIND+CSS%2Cffffff%3BNode.js%2CNODE.JS%2Cffffff%3BExpress%2CEXPRESS.JS%2Cffffff%3BMongoDB%2CMONGODB%2Cffffff%3B)
+
 
 
 
