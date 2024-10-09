@@ -44,4 +44,4 @@ I'm always open to new opportunities and challenges, and I'm looking forward to 
 
 
 My First Registration Badge of the HacktoberFest 2024!
-![alt text](./level0-sloth-hello-0-0-0-0.webp)
+[<img src="./level0-sloth-hello-0-0-0-0.webp" width="250"/>](image.png)
