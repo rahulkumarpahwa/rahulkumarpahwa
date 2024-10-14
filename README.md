@@ -31,7 +31,7 @@ I'm always open to new opportunities and challenges, and I'm looking forward to 
 | ![rahulkumarpahwa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumarpahwa&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) | ![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&lineHeight=8&lineCount=2&theme=vue&width=650&bg=%2335495E&badge=%233E556E&border=%233E556E&titleColor=%2341B883&line1=NEXT.JS%2CNEXT.JS%2Cffffff%3BREACT%2CREACT.JS%2Cffffff%3BTAILWINDCSS%2CTAILWIND+CSS%2Cffffff%3BNODE.JS%2CNODE.JS%2Cffffff%3BEXPRESS%2CEXPRESS.JS%2Cffffff%3B&line2=MONGODB%2CMONGODB%2Cffffff%3BBOOTSTRAP%2CBOOTSTRAP%2Cffffff%3BJAVASCRIPT%2CJAVASCRIPT%2Cffffff%3BTYPESCRIPT%2CTYPESCRIPT%2Cffffff%3B)
 
 
-![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&bg=%23212121&badge=%23e05320&border=%23e05320&titleColor=%23ffffff&line1=typescript%2Ctypescript%2C3fd6e6%3Bexpress%2CExpress.js%2C3fd6e6%3B)
+![Postman](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&bg=%23212121&badge=%23e05320&border=%23e05320&titleColor=%23ffffff&line1=typescript%2Ctypescript%2C3fd6e6%3Bexpress%2CExpress.js%2C3fd6e6%3B)
 
 <!-- github link -->
 <!--- https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&lineHeight=8&lineCount=2&theme=vue&width=650&bg=%2335495E&badge=%233E556E&border=%233E556E&titleColor=%2341B883&line1=NEXT.JS%2CNEXT.JS%2Cffffff%3BREACT%2CREACT.JS%2Cffffff%3BTAILWINDCSS%2CTAILWIND+CSS%2Cffffff%3BNODE.JS%2CNODE.JS%2Cffffff%3BEXPRESS%2CEXPRESS.JS%2Cffffff%3B&line2=MONGODB%2CMONGODB%2Cffffff%3BBOOTSTRAP%2CBOOTSTRAP%2Cffffff%3BJAVASCRIPT%2CJAVASCRIPT%2Cffffff%3BTYPESCRIPT%2CTYPESCRIPT%2Cffffff%3B --->
