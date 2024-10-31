@@ -46,5 +46,5 @@ I'm always open to new opportunities and challenges, and I'm looking forward to 
 ![slack](https://github-readme-tech-stack.vercel.app/api/cards?title=slack&lineCount=1&bg=%232a072c&badge=%237d3986&border=%233e1043&titleColor=%23d8e7f8&line1=typescript%2CTYPESCRIPT%2C3178c6%3Bexpress%2CEXPRESS.JS%2C4f9cb6%3B)
 --->
 
-[![An image of @rahulkumarpahwa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rahulkumarpahwa)](https://holopin.io/@rahulkumarpahwa)
+<!-- [![An image of @rahulkumarpahwa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rahulkumarpahwa)](https://holopin.io/@rahulkumarpahwa) -->
 [<img src="./level0-sloth-hello-0-0-0-0.webp" width="250"/>](image.png)
