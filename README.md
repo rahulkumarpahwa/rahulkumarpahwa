@@ -48,4 +48,4 @@ I'm always open to new opportunities and challenges, and I'm looking forward to 
 
 <!-- [![An image of @rahulkumarpahwa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rahulkumarpahwa)](https://holopin.io/@rahulkumarpahwa) -->
 [<img src="./level0-sloth-hello-0-0-0-0.webp" width="250"/>](image.png)
-[<img src="./level1-sloth-hello-0-0-0-0.webp" width="250"/>](image.png)
+[<img src="./level1-sloth-code-tumbler-0-0-0.webp" width="250"/>](image.png)
